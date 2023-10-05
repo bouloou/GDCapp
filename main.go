@@ -1,4 +1,4 @@
-package GDCapp
+package main
 
 import (
 	"github.com/bouloou/GDCapp/src/appBackend"
