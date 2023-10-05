@@ -4,10 +4,11 @@ import (
 	"errors"
 	"fmt"
 	"io"
-	"localDatabase"
 	"net/http"
 	"os"
 	"strings"
+
+	"github.com/bouloou/GDCapp/src/appBackend/localDatabase"
 )
 
 var currentDatabase localDatabase.Database

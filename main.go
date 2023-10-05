@@ -1,8 +1,8 @@
-package main
+package GDCapp
 
 import (
-	"appBackend"
-	"appFrontend"
+	"github.com/bouloou/GDCapp/src/appBackend"
+	"github.com/bouloou/GDCapp/src/appFrontend"
 )
 
 func main() {
